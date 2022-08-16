@@ -19,3 +19,6 @@ if not direct to http://localhost:1337/admin/auth/register-admin on your browser
 - Save everything and click on the role & permission under the setting section.
 - Find products roles and select all to change to public.
 -navigate back to the Products collection and select the Draft button on each of them and then for each item, select the Publish button at the top right
+
+
+<img src='cart.gif' width='720' height='720'>
